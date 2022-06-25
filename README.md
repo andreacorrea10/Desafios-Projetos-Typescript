@@ -1,3 +1,3 @@
-# Digital Wallet
+# Desafios-Projetos-Typescript
 
-<h1 align="center">Projeto de uma carteira digital com uma arquitetura em microserviços em Typescript.</h1>
+<h3 align="center">Desafios em Typescript e projeto prático.</h3>
